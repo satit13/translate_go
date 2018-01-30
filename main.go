@@ -16,7 +16,7 @@ func main() {
 	ctx := context.Background()
 
 	// Creates a client.
-	client, err := translate.NewClient(ctx,option.WithCredentialsFile("./secret/service_account.json"))
+	client, err := translate.NewClient(ctx, option.WithCredentialsFile("./secret/service_account.json"))
 	if err != nil {
 		log.Fatalf("Failed to create client: %v", err)
 	}
