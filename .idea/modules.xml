@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gmail_go.iml" filepath="$PROJECT_DIR$/gmail_go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/translate_go.iml" filepath="$PROJECT_DIR$/translate_go.iml" />
     </modules>
   </component>
 </project>
