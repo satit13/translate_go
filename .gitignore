@@ -19,3 +19,5 @@
 *.iml
 app
 /paybox_go
+
+/secret
